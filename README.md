@@ -1,7 +1,9 @@
 ## PROJECT PENGOLAHAN CITRA DIGITAL : KLASIFIKASI MAGGOT BERDASARKAN KUALITAS 
 
 1. Clone this repository in your IDE or VSCODE
-```git clone https://github.com/alcamic/maggot-data.git```
+```bash
+git clone https://github.com/alcamic/maggot-data.git
+```
 
 3. Make virtual environment in maggot-data
 ```bash
